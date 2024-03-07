@@ -1,6 +1,8 @@
 # cli_yt_downloader
 CLI YouTube downloader in python
 
+####Video Demo: https://youtu.be/asyKwzIP_II
+
 #Summary:
 
 The program utilizes command-line arguments to receive inputs such as the name of the file, format, resolution, and type of the media file to be downloaded. It supports downloading from YouTube links and can handle various download options based on the provided arguments.

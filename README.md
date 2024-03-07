@@ -41,9 +41,6 @@ Supported Resolutions: 240p, 360p, 480p, 720p, 1080p, 1440p, 2160p, and 4320p.
 python program.py -n my_video -f mp4 -r 720p -t video
 Gimme link: [YOUR_URL]
 
-#showcase: 
-https://youtu.be/asyKwzIP_II
-
 #Notes:
 
 Ensure you have the necessary dependencies installed (included in requirements.txt) .
